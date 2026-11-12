@@ -1,0 +1,20 @@
+{
+  "name": "studysync",
+  "version": "0.1.0",
+  "description": "StudySync - Where is my time going? Log study sessions and see where your time goes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --no-warnings server.js",
+    "seed": "node --no-warnings seed.js",
+    "test": "node --no-warnings test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}

@@ -1,0 +1,3 @@
+node_modules/
+studysync.db
+*.db-journal
